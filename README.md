@@ -1,1 +1,2 @@
-# Project-37
+# TrexGame
+Trex game for browser
